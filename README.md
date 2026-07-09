@@ -1,6 +1,6 @@
 # RQY1102_Equipo3_ET
 Proyecto de gestión integral Edificio Mirador.
-Integrantes: Felipe Martínez (Desarrollador de Software) / Vicente Chávez (Arquitecto de software).
+Integrantes: Felipe Martínez (Diseñador y desarrollador de Software) / Vicente Chávez (Arquitecto de software).
 
 El edificio "El Mirador", ubicado en una zona céntrica, cuenta con 20 pisos y 160 departamentos. Actualmente, la administración enfrenta graves dificultades en la gestión de gastos comunes debido a procesos manuales y falta de automatización. Los problemas principales incluyen una ineficiencia en los cobros, una alta tasa de morosidad que afecta el flujo de caja, falta de transparencia en el uso de fondos y una comunicación deficiente con los residentes. Estas ineficiencias retrasan las mantenciones esenciales y generan desconfianza en la comunidad.
 
